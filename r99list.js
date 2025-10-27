@@ -635,7 +635,6 @@ const CONFIG = {
 "Gorerito",
 "Graduate Usuki",
 "Grape Jelly Sword",
-"Grapefruit Cake",
 "Grarrl Claw",
 "Greater Defence Scroll",
 "Greater Elemental Potion",
