@@ -1746,7 +1746,6 @@ const CONFIG = {
 "Wraith Scorchio Morphing Potion",
 "Wraith Shoyru Morphing Potion",
 "Wrawk the Merciless Plushie",
-"Xantan Stamp",
 "Xweetok Battle Batons",
 "Xweetok Boots Of Speed",
 "Year 8 Usuki",
