@@ -1586,7 +1586,6 @@ const CONFIG = {
 "Techo Master Lunchbox",
 "Techo Statue",
 "Teenage Usuki Reject",
-"Terask Stamp",
 "The Bad Skeith",
 "The Eve of the Eve",
 "The Great Battle Stamp",
