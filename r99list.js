@@ -1655,6 +1655,7 @@ const CONFIG = {
 "Uni Myths",
 "Unidentified Petpetpet",
 "Unlockable Ice Treasure",
+"Upside Down Island Acara Stamp",
 "Usuki Artist Set",
 "Usuki Buzzer Set",
 "Usuki Defender",
